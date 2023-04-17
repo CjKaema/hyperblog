@@ -52,4 +52,6 @@ body
 #footer #tf
 {
     color: white;
+    text-align: center;
+    background-color: #333;
 }
